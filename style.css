@@ -36,4 +36,15 @@
     font-weight: lighter;
     font-size: 22px;
   }
+  section{
+      margin-bottom: 10px;
+  }
+  footer {
+          background: #fce138;
+      width: 100%;
+      padding:  40px 35px;
+  }
+  .what-we-do{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
   
